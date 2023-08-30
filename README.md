@@ -2,9 +2,9 @@
 
 ## Time Complexity: O(n)
 
-## Space Complexity: O(n)
+### Space Complexity: O(n)
 
-## The problem was solved with use of stack and simple algorithm.
+### The problem was solved with use of stack and simple algorithm.
 
 ### Problem statement:
 
