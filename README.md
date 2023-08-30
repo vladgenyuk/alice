@@ -1,8 +1,8 @@
 # alice
 
-# Time Complexity: O(n)
+## Time Complexity: O(n)
 
-#Space Complexity: O(n)
+## Space Complexity: O(n)
 
 ## The problem was solved with use of stack and simple algorithm.
 
