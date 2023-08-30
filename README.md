@@ -19,6 +19,6 @@ Alice has intercepted some messages which are "meaningless" sequences of letters
 The program should be executed by calling “python alice.py path/to/file.txt” from the Unix shell where "path/to/file.txt" is the path to the file with a ciphered message sent by Bob. The message consists of lowercase English letters and its length is at most 100 000. Output the message after step 2). The program should produce an answer in less than a few seconds.
 
 Example
-Execute: python alice.py somefile.txt
+### Execute: python alice.py somefile.txt
 somefile.txt: wwaldaadicffenn
 Output: alice
