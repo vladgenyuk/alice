@@ -3,6 +3,7 @@
 The problem was solved with use of stack and simple algorithm.
 
 Time Complexity: O(n)
+
 Space Complexity: O(n)
 
 Alice knows that NSA agents use the following algorithm to cipher their messages.
