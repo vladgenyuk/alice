@@ -1,10 +1,12 @@
 # alice
 
-The problem was solved with use of stack and simple algorithm.
+# Time Complexity: O(n)
 
-Time Complexity: O(n)
+#Space Complexity: O(n)
 
-Space Complexity: O(n)
+## The problem was solved with use of stack and simple algorithm.
+
+### Problem statement:
 
 Alice knows that NSA agents use the following algorithm to cipher their messages.
 
